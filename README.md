@@ -25,3 +25,8 @@
 
 ![Dalnurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalnurs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalnurs&layout=compact&theme=radical)
+
+### <h2 align="center">📫 Cómo contactarme</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-reyandre-b8a60826a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarmanuelreynosoandrade1@gmail.com)
