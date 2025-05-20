@@ -4,7 +4,10 @@
   <img style="margin-left: 8px;" align="center" src="https://komarev.com/ghpvc/?username=Dalnurs" alt="Dalnurs"/>
 </p>
 <br>
-### 👨‍💻 Sobre mí
+<p>
+  
+<h2>👨‍💻 Sobre mí</h2>
+</p>
 
 - 💻 Me especializo en desarrollo web con tecnologías como PHP, Laravel, JavaScript y Tailwind.
 - 🚀 Actualmente trabajando en [AthleticAdmin](https://github.com/TU_USUARIO/AthleticAdmin), un sistema de gestión para gimnasios.
