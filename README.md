@@ -15,6 +15,7 @@
 </p>
 <br>
 <br>
+
 ### <h2 align="center">🧰 Tecnologías que uso</h2>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -27,6 +28,7 @@
 ![Dalnurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalnurs&show_icons=true&theme=radical)
 <br>
 <br>
+
 ### <h2 align="center">🧠 Habilidades técnicas</h2>
 
 - 🛠️ Lenguajes: PHP, JavaScript, SQL, HTML, CSS
