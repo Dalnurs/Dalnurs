@@ -24,7 +24,7 @@
 ### <h2 align="center">📈 Estadísticas de GitHub</h2>
 
 ![Dalnurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalnurs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalnurs&layout=compact&theme=radical)
+
 
 ### <h2 align="center">📫 Cómo contactarme</h2>
 
