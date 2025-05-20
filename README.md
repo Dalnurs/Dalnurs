@@ -9,7 +9,7 @@
 
 
 - 💻 Me especializo en desarrollo web con tecnologías como PHP, Laravel, JavaScript y Tailwind.
-- 🚀 Actualmente trabajando en [AthleticAdmin](https://github.com/TU_USUARIO/AthleticAdmin), un sistema de gestión para gimnasios.
+- 🚀 Actualmente trabajando en [AthleticAdmin], un sistema de gestión para gimnasios.
 - 📚 Siempre aprendiendo nuevas herramientas y buenas prácticas de desarrollo.
 - 🎯 Enfocado en construir interfaces limpias y funcionales.
 </p>
